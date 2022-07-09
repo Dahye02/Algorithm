@@ -6,7 +6,7 @@
 #include <sstream>
 using namespace std;
 
-#define MAX 1000000
+#define MAX 10
 
 //Bubble
 void Bubble(int*);
