@@ -4,6 +4,6 @@
 - [ ] Quick Sort
 - [ ] Merge Sort 
 - [ ] Heap Sort
-- [ ] Bubble Sort
+- [1] Bubble Sort
 - [ ] Selection Sort
 - [ ] Insertion Sort 
