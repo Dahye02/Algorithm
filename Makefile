@@ -1,6 +1,6 @@
 CC = g++
 TARGET = play.exe
-OBJS = main.o Quick_Sort.o Bubble_Sort.o
+OBJS = main.o getNum_from_CSV.o Quick_Sort.o Bubble_Sort.o
 
 CFLAGS = -wall
 

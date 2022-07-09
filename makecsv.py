@@ -9,7 +9,7 @@ try:
     count=0
     while(count<1000000):
         f1.write(str(random.randrange(1,1000000,1)))
-        f1.write(", ")
+        f1.write("\n")
         count+=1
     f1.close()
 except Exception as e:

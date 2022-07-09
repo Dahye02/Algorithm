@@ -1,0 +1,7 @@
+file output stream test
+file output stream test
+file output stream test
+file output stream test
+file output stream test
+fstream input test
+fstream input test

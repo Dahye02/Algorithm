@@ -1,6 +1,7 @@
 #include "main.h"
 
 int main(){
-    test();
-    test2();
+    int num1=getCSV(1000001);
+    cout<<num1<<endl;
+	return 0;
 }
