@@ -6,8 +6,10 @@
 #include <sstream>
 using namespace std;
 
+#define MAX 1000000
+
 //Bubble
-int test();
+void Bubble(int*);
 
 //QUick
 int test2();
