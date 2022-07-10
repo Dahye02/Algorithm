@@ -4,6 +4,7 @@
 #include <fstream>
 #include <string>
 #include <sstream>
+#include <vector>
 using namespace std;
 
 #define MAX 10
@@ -12,7 +13,7 @@ using namespace std;
 void Bubble(int*);
 
 //QUick
-int test2();
+void Quick(int *arr,int, int);
 
 //file-system
 int getCSV(int);

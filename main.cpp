@@ -4,11 +4,14 @@ void printArr(int *);
 void makeArr(int *);
 
 int main(){
-    //MAX개의 숫자를 CSV에서 뽑아 배열에 저장 -----------------
     int arr[MAX];
     
     makeArr(arr);
     Bubble(arr);
+    printArr(arr);
+
+    makeArr(arr);
+    Quick(arr,0,MAX-1);
     printArr(arr);
 }
 
@@ -21,4 +24,5 @@ void makeArr(int arr[MAX]){
 //배열출력
 void printArr(int arr[MAX]){
     for(int i=0;i<MAX;i++)  cout<<arr[i]<<endl;
+    cout<<"========================================="<<endl;
 }
