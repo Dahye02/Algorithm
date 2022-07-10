@@ -13,9 +13,13 @@ int main(){
     makeArr(arr);
     Selection(arr);
     printArr(arr);
-
+    
     makeArr(arr);
     Quick(arr,0,MAX-1);
+    printArr(arr);
+    
+    makeArr(arr);
+    Insertion(arr);
     printArr(arr);
 }
 

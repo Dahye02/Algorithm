@@ -18,6 +18,9 @@ void Quick(int *arr,int, int);
 //Selection
 void Selection(int*);
 
+//Insertion
+void Insertion(int*);
+
 //file-system
 int getCSV(int);
 
