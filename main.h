@@ -15,6 +15,9 @@ void Bubble(int*);
 //QUick
 void Quick(int *arr,int, int);
 
+//Selection
+void Selection(int*);
+
 //file-system
 int getCSV(int);
 
