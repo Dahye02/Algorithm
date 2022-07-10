@@ -1,9 +1,9 @@
 # Algorithms
 
 ### :point_right: Sort Algorithm ###
-- [ ] Quick Sort
+- [x] Quick Sort
 - [ ] Merge Sort 
 - [ ] Heap Sort
 - [x] Bubble Sort
-- [ ] Selection Sort
-- [ ] Insertion Sort 
+- [x] Selection Sort
+- [x] Insertion Sort 
