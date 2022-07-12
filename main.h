@@ -21,6 +21,9 @@ void Selection(int*);
 //Insertion
 void Insertion(int*);
 
+//Merge
+void Merge(int*,int,int);
+
 //file-system
 int getCSV(int);
 

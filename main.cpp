@@ -21,6 +21,10 @@ int main(){
     makeArr(arr);
     Insertion(arr);
     printArr(arr);
+
+    makeArr(arr);
+    Merge(arr,0,MAX-1);
+    printArr(arr);
 }
 
 
