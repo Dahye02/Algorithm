@@ -2,7 +2,7 @@
 
 ### :point_right: Sort Algorithm ###
 - [x] Quick Sort
-- [ ] Merge Sort 
+- [x] Merge Sort 
 - [ ] Heap Sort
 - [x] Bubble Sort
 - [x] Selection Sort
