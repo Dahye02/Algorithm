@@ -24,6 +24,9 @@ void Insertion(int*);
 //Merge
 void Merge(int*,int,int);
 
+//Heap
+void Heap(int*);
+
 //file-system
 int getCSV(int);
 
